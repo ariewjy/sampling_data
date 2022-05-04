@@ -1,4 +1,4 @@
-## Bash Script to Download-Extract-Merge-Sampling Online Data (aditya-66kK)
+## Bash Script (sampling.sh) to Download-Extract-Merge-Sampling Online Data (aditya-66kK)
 
 ### Steps explained below:
 
