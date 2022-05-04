@@ -1,6 +1,6 @@
 ## Bash Script to Download-Extract-Merge-Sampling Online Data (aditya-66kK)
 
-Steps explained below:
+### Steps explained below:
 
 a. Downloading data and put inside folder **data**
 ```
