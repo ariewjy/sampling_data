@@ -1,2 +1,5 @@
+
 csvkit==1.0.7
+sample-stream==0.2.5
 wget==3.2
+
